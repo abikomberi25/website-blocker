@@ -268,7 +268,7 @@ Through this project I gained practical experience with:
 
 ## Author
 
-**Abhirami P C**  
+**Abirami P C**  
 B.Tech Information Technology  
 PSG College of Technology
 
