@@ -1,0 +1,2 @@
+# No external dependencies — this project uses only Python's standard library
+# (tkinter, sqlite3, threading, subprocess, datetime)
